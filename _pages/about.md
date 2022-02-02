@@ -21,8 +21,9 @@ Publications
 Teaching
 ======
 I supervise Cambridge undergraduate students in the following courses:
+- [Information Theory](https://www.cl.cam.ac.uk/teaching/2122/InfoTheory/), Part II, Spring 2022
+- [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/), Part II, Spring 2020, Spring 2021, Spring 2022
 - [Data Science](https://www.cl.cam.ac.uk/teaching/2021/DataSci/), Part IB, Autumn 2021
-- [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/), Part II, Spring 2020, Spring 2021
 - [Economics, Law and Ethics](https://www.cl.cam.ac.uk/teaching/2021/EconLaw/), Part IA, Autumn 2019
 
 Art
