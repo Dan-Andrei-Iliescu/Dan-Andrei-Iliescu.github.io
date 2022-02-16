@@ -13,10 +13,11 @@ I have previously obtained an *MPhil in Advanced Computer Science* at the Univer
 
 Publications
 ======
-- A. Mustafa, A. Mikhailiuk, **D.A. Iliescu**, V. Babbar, R.K. Mantiuk. [Training a Task-Specific Image Reconstruction](https://arxiv.org/abs/2103.14616v2), *WACV 2022.*
-- **D.A. Iliescu**, A. Mikhailiuk, D.J. Wischik, R.K. Mantiuk. [Disentangling Domain and Content](https://www.cl.cam.ac.uk/~dai24/disentangling_domain_content.pdf). *Preprint 2020.*
-- A. Webb, C. Reynolds, **D.A. Iliescu**, W. Chen, H. Reeve, M. Luján, G. Brown. [To Ensemble or Not Ensemble: When Does End-to-End Training Fail?](https://doi.org/10.1007/978-3-030-67664-3_7). *Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2020.*
-- **D.A. Iliescu**, F. Petrogalli. [Arm Scalable Vector Extensions and Application to Machine Learning](https://developer.arm.com/solutions/hpc/resources/hpc-white-papers/arm-scalable-vector-extensions-and-application-to-machine-learning). *ARM Ltd, Whitepaper 2018*
+1. **D.A. Iliescu**, D.J. Wischik. Group Disentanglement for Missing Data Imputation, *under review*.
+2. A. Mustafa, A. Mikhailiuk, **D.A. Iliescu**, V. Babbar, R.K. Mantiuk. [Training a Task-Specific Image Reconstruction](https://openaccess.thecvf.com/content/WACV2022/html/Mustafa_Training_a_Task-Specific_Image_Reconstruction_Loss_WACV_2022_paper.html), *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp. 2319-2328*.
+3. **D.A. Iliescu**, A. Mikhailiuk, D.J. Wischik, R.K. Mantiuk. [Disentangling Domain and Content](https://arxiv.org/abs/2202.07285). *arXiv:2202.07285, 2020*.
+4. A. Webb, C. Reynolds, **D.A. Iliescu**, W. Chen, H. Reeve, M. Luján, G. Brown. [To Ensemble or Not Ensemble: When Does End-to-End Training Fail?](https://doi.org/10.1007/978-3-030-67664-3_7), *Machine Learning and Knowledge Discovery in Databases, 2021, pp.109-123*.
+5. **D.A. Iliescu**, F. Petrogalli. [Arm Scalable Vector Extensions and Application to Machine Learning](https://developer.arm.com/solutions/hpc/resources/hpc-white-papers/arm-scalable-vector-extensions-and-application-to-machine-learning), *Whitepaper, ARM Ltd, 2018*.
 
 Teaching
 ======
