@@ -13,7 +13,7 @@ I have previously obtained an *MPhil in Advanced Computer Science* at the Univer
 
 Publications
 ======
-1. **D.A. Iliescu**, D.J. Wischik. Group Disentanglement for Missing Data Imputation, *under review*.
+1. **D.A. Iliescu**, D.J. Wischik. Group Disentanglement Under Conditional Shift, *under review*.
 2. A. Mustafa, A. Mikhailiuk, **D.A. Iliescu**, V. Babbar, R.K. Mantiuk. [Training a Task-Specific Image Reconstruction](https://openaccess.thecvf.com/content/WACV2022/html/Mustafa_Training_a_Task-Specific_Image_Reconstruction_Loss_WACV_2022_paper.html), *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp. 2319-2328*.
 3. **D.A. Iliescu**, A. Mikhailiuk, D.J. Wischik, R.K. Mantiuk. [Disentangling Domain and Content](https://arxiv.org/abs/2202.07285). *arXiv:2202.07285, 2020*.
 4. A. Webb, C. Reynolds, **D.A. Iliescu**, W. Chen, H. Reeve, M. Luján, G. Brown. [To Ensemble or Not Ensemble: When Does End-to-End Training Fail?](https://doi.org/10.1007/978-3-030-67664-3_7), *Machine Learning and Knowledge Discovery in Databases, 2021, pp.109-123*.
