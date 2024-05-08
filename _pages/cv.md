@@ -7,4 +7,8 @@ redirect_from:
   - /resume
 ---
 
-![](../files/cv.pdf)
+<object data="https://dan-andrei-iliescu.github.io/files/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://dan-andrei-iliescu.github.io/files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://dan-andrei-iliescu.github.io/files/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
