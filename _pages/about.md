@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD student in the [Computer Lab, University of Cambridge](https://www.cst.cam.ac.uk), supervised by [Dr Damon Wischik](https://www.cl.cam.ac.uk/~djw1005/). My main research interest is in developing *generative models* for heterogeneous data. I study latent-space disentanglement for representing grouped data and solving missing value problems. I am funded by the [Alan Turing Institute](https://www.turing.ac.uk), UK's national AI research institute.
+I am a fourth-year PhD student in the [Computer Lab, University of Cambridge](https://www.cst.cam.ac.uk/people/dai24), supervised by [Dr Damon Wischik](https://www.cl.cam.ac.uk/~djw1005/). My main research interest is in developing *generative models* for heterogeneous data. I study latent-space disentanglement for representing grouped data and solving missing value problems. I am funded by the [Alan Turing Institute](https://www.turing.ac.uk), UK's national AI research institute.
 
 I have previously obtained an *MPhil in Advanced Computer Science* at the University of Cambridge, and a *BSc in Computer Science* at the University of Manchester.
 
