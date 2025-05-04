@@ -11,12 +11,6 @@ I am a fifth-year PhD student in the [Computer Lab, University of Cambridge](htt
 
 I have previously obtained an *MPhil in Advanced Computer Science* at the University of Cambridge, and a *BSc in Computer Science* at the University of Manchester.
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 Publications
 ======
 | | |
